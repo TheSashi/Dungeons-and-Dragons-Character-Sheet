@@ -1,4 +1,4 @@
-# D&D 5e Character Sheet
+# D&D Character Sheet
 
 A simple web-based character sheet for Dungeons & Dragons 
 
